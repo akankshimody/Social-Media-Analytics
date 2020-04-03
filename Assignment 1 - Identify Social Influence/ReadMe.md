@@ -10,10 +10,10 @@ We use [training data](https://github.com/akankshimody/Social-Media-Analytics/bl
 We collect [tweets](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/tweets_flatearth.csv) on the flat earth conspiracy theory using [Tweepy](https://www.tweepy.org/) and use the predictors from Part I to identify 100 top influencers for the same.
 
 ### Problem Statement
-The detailed problem statement provided by our professor can be found [here](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/Assignment%201%20Social%20Influence%20%26%20Twitter%20-%20Problem%20Statement.pdf)
+The detailed problem statement provided by our professor can be found [here.](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/Assignment%201%20Social%20Influence%20%26%20Twitter%20-%20Problem%20Statement.pdf)
 
 ### Analysis
-Our code for the the assignment can be found [here](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/Python%20Notebook.ipynb)
+Our code for the the assignment can be found [here.](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/Python%20Notebook.ipynb)
 <br><br>
 Following are the steps we followed in our analysis:<br>
 1.Using the training data set, we create an analytic model in Python for pairs of individuals to classify who is more influential. We tried three models: logistic regression, Random Forest and XGBoost. Among them, XGBoost has the highest accuracy rate of 78.8%.<br> 
@@ -25,4 +25,4 @@ We then calculate the degree, betweenness and closeness scores of each node in t
 3. Using the results from Step 1, we found the top 50 influencers from the tweets.<br>
 
 ### Conclusion
-Our results are detailed in our [report](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/Assignment%201%20Report.pdf)
+Our results are detailed in our [report.](https://github.com/akankshimody/Social-Media-Analytics/blob/master/Assignment%201%20-%20Identify%20Social%20Influence/Assignment%201%20Report.pdf)
